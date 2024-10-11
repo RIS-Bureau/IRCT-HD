@@ -1,0 +1,13 @@
+/*Bootstrap CSS*/
+@import "lib/bootstrap/css/bootstrap.css";
+@import "./main/user/user.css";
+.nav-link{
+    color: #05357c;
+}
+.navbar-brand img{
+    margin-right: 5px;
+}
+.navbar-collapse{
+    margin-left: 15px;
+}
+
